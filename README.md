@@ -1,4 +1,4 @@
-# .NetAPI
+# Basic .Net REST API
 
 In the appsettings.json make sure to fill DefaultConnection and SigningKey values with your own values like this:
 
